@@ -1,5 +1,5 @@
 # STRUCTURES-DE-DONNEES
-##Description du projet
+## Description du projet
 Gestion complète d'un inventaire magasin avec surcharge de méthodes et P.O.O stricte.
 ### Fonctionnalités
 | Méthode             | Surcharge               | Comportement                                            |
